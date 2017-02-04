@@ -25,3 +25,6 @@ testcu
 testp
 /build
 m4/*.m4
+/Debug
+/Release
+/x64
