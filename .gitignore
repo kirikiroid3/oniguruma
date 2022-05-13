@@ -25,3 +25,9 @@ testcu
 testp
 /build
 m4/*.m4
+.vs/
+lib/
+Win32/
+x64/
+Debug/
+Release/
